@@ -3,7 +3,7 @@
 
 # 👋 Hey, I'm Goldy!
 
-### 🚀 Software engineer with a passion for web development, AI, and changing lives through code. Let's connect!
+### 🚀 Software engineer with a passion for web development, AI, game scripting and changing lives through code. Let's connect!
 
 - ✉️ Reach me at [goldyproton@protonmail.com](mailto:goldyproton@protonmail.com)  
 
