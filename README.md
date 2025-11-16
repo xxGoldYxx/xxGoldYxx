@@ -1,4 +1,4 @@
-![](/Banners/Goldybanner.png)
+![](/Goldybanner.png)
 
 
 # 👋 Hey, I'm Goldy!
